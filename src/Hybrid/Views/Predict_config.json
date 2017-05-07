@@ -1,0 +1,16 @@
+{
+	"error": {
+		"invalidUserId": {
+			"code": -1,
+			"msg": "User Id does not exist"
+		},
+		"invalidItemId": {
+			"code": -2,
+			"msg": "Item Id does not exist"
+		}
+	},
+	"ratingAlreadyExists": {
+		"code": 1,
+		"msg": "Rating already exists. The prediction has been made by ignoring that rating."
+	}
+}
